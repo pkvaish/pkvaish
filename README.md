@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on IT industry
 - 📫 Reach me throuh email at vaishnavipk216@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+- 
 
 <!---
 pkvaish/pkvaish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
